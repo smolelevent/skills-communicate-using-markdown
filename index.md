@@ -8,3 +8,8 @@
 print(macska)
 macska = true
 ```
+- [x] c
+- [x] ci
+- [x] cic
+- [x] cica
+- [] CICA
